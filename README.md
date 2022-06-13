@@ -14,8 +14,8 @@ if not images.exists():
     !unzip -q datasets/South-Building.zip -d datasets/
 ```
 
-## 3. Ground Truth
-Put the ground truth file into the South-Building folder.
+## 3. Ground Truth and Masks
+Put the file ground_truth_adjusted.txt and the folder masks into the South-Building folder.
 
 ## 4. Notebook
 Open the Notebook to run the code.
