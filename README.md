@@ -19,3 +19,6 @@ Put the file ground_truth_adjusted.txt and the folder masks into the South-Build
 
 ## 4. Notebook
 Open the Notebook to run the code.
+
+## 5. Segmentation
+The overall method needs masks. The masks are stored as pkl file which can be generated from the segmentation model. You can download the weights that have been used from here: [weights link](https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.3/deeplabv3_xception65_ade20k.h5).
